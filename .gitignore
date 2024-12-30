@@ -1,0 +1,13 @@
+#Idea
+.idea/
+#VSC
+.vscode/
+#Log
+*.log
+#Temp Files
+*.bak
+*.tmp
+#Mac
+.DS_Store
+#Node.js
+node_modules/
